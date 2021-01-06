@@ -1,0 +1,21 @@
+C:\Users\Yigit\Desktop\c#\Tas-Kagit-Makas\Tas-Kagit-Makas\bin\Debug\Tas-Kagit-Makas.exe.config
+C:\Users\Yigit\Desktop\c#\Tas-Kagit-Makas\Tas-Kagit-Makas\bin\Debug\Tas-Kagit-Makas.exe
+C:\Users\Yigit\Desktop\c#\Tas-Kagit-Makas\Tas-Kagit-Makas\bin\Debug\Tas-Kagit-Makas.pdb
+C:\Users\Yigit\Desktop\c#\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas-Kagit-Makas.csprojResolveAssemblyReference.cache
+C:\Users\Yigit\Desktop\c#\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas_Kagit_Makas.Form1.resources
+C:\Users\Yigit\Desktop\c#\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas_Kagit_Makas.Properties.Resources.resources
+C:\Users\Yigit\Desktop\c#\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas-Kagit-Makas.csproj.GenerateResource.Cache
+C:\Users\Yigit\Desktop\c#\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas-Kagit-Makas.exe
+C:\Users\Yigit\Desktop\c#\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas-Kagit-Makas.pdb
+C:\Users\Yigit\Desktop\c#\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas_Kagit_Makas.Form2.resources
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Tas-Kagit-Makas\Tas-Kagit-Makas\bin\Debug\Tas-Kagit-Makas.exe.config
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Tas-Kagit-Makas\Tas-Kagit-Makas\bin\Debug\Tas-Kagit-Makas.exe
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Tas-Kagit-Makas\Tas-Kagit-Makas\bin\Debug\Tas-Kagit-Makas.pdb
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas_Kagit_Makas.Form1.resources
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas_Kagit_Makas.Form2.resources
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas_Kagit_Makas.Properties.Resources.resources
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas-Kagit-Makas.csproj.GenerateResource.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas-Kagit-Makas.csproj.CoreCompileInputs.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas-Kagit-Makas.exe
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas-Kagit-Makas.pdb
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Tas-Kagit-Makas\Tas-Kagit-Makas\obj\Debug\Tas-Kagit-Makas.csprojAssemblyReference.cache
